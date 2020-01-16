@@ -1,0 +1,9 @@
+x = [0, 1, [2,7,23]]
+x[2][2]=17
+print(x)
+# x[2][0] = 3
+# print (x)
+# x[2].append(4)
+# print (x)
+# x[2] = 2
+# print (x)
